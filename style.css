@@ -5,6 +5,9 @@
 
 body {
     background-color: black;
+    background-image: url('https://images.vexels.com/media/users/3/73676/raw/b092cb8bced3911e60f25a59326c2302-fundo-de-corrida-criativo-com-cronometro.jpg');
+    background-position: top right 1px;
+    background-size: 90%;
 }
 
 .max-width {
